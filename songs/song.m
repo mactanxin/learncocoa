@@ -32,6 +32,6 @@
 }
 //覆盖NSObject的description方法
 - (NSString *)description{
-	return [self name];
+	return [super description];
 }
 @end
