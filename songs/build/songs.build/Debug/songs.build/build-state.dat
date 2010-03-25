@@ -1,7 +1,7 @@
 Tsongs
 v7
 r0
-t291210536.431982
+t291216629.219451
 cCheck dependencies
 cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch.gch songs_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o /Users/uc0079/Documents/LearnCocoa/songs/songs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -29,12 +29,12 @@ t1255686957
 s11760704
 
 N/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs
-t1269517736
-s10608
+t1269523829
+s10728
 
 N/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/song.o
-t1269517697
-s9156
+t1269523818
+s9740
 
 N/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.LinkFileList
 c000000004BAB4D7C00000000000000D5
@@ -42,8 +42,8 @@ t1269517692
 s213
 
 N/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o
-t1269517736
-s8404
+t1269523829
+s8276
 
 N/Users/uc0079/Documents/LearnCocoa/songs/song.h
 c000000004BAB4A9F0000000000000158
@@ -52,15 +52,15 @@ s344
 i<Cocoa/Cocoa.h>
 
 N/Users/uc0079/Documents/LearnCocoa/songs/song.m
-c000000004BAB4BEA00000000000001BF
-t1269517290
-s447
+c000000004BAB651B0000000000000216
+t1269523739
+s534
 i"song.h"
 
 N/Users/uc0079/Documents/LearnCocoa/songs/songs.m
-c000000004BAB4DA6000000000000020F
-t1269517734
-s527
+c000000004BAB6573000000000000024D
+t1269523827
+s589
 i<Foundation/Foundation.h>
 i"song.h"
 
@@ -76,11 +76,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies291210535#291210535#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies291216628#291216628#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/songs.build/Debug/songs.build/Objects-normal/x86_64/song.o /Users/uc0079/Documents/LearnCocoa/songs/song.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s291210496.884967
-e291210497.596334
+s291216613.447307
+e291216618.049236
 r1
 xCompileC
 xbuild/songs.build/Debug/songs.build/Objects-normal/x86_64/song.o
@@ -89,11 +89,11 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@55"Compile /Users/uc0079/Documents/LearnCocoa/songs/song.m291210496#291210497#0(0"0(0#0#47"/Users/uc0079/Documents/LearnCocoa/songs/song.m4300885448#1432"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -I/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/songs/song.m -o /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/song.o0#
+lSLF07#2@55"Compile /Users/uc0079/Documents/LearnCocoa/songs/song.m291216613#291216618#0(0"0(0#0#47"/Users/uc0079/Documents/LearnCocoa/songs/song.m4300885448#1432"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -I/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/songs/song.m -o /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/song.o0#
 
 CCompileC build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o /Users/uc0079/Documents/LearnCocoa/songs/songs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s291210535.905109
-e291210536.411377
+s291216628.495102
+e291216629.044839
 r1
 xCompileC
 xbuild/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o
@@ -102,17 +102,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Users/uc0079/Documents/LearnCocoa/songs/songs.m291210535#291210536#0(0"0(0#0#48"/Users/uc0079/Documents/LearnCocoa/songs/songs.m4300885448#1434"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -I/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/songs/songs.m -o /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o0#
+lSLF07#2@56"Compile /Users/uc0079/Documents/LearnCocoa/songs/songs.m291216628#291216629#0(0"0(0#0#48"/Users/uc0079/Documents/LearnCocoa/songs/songs.m4300885448#1434"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/songs-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -I/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/songs/songs.m -o /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.o0#
 
 CLd /Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs normal x86_64
-s291210536.411469
-e291210536.431900
+s291216629.044928
+e291216629.219399
 r1
 xLd
 x/Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs
 xnormal
 xx86_64
-lSLF07#2@63"Link /Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs291210536#291210536#0(0"0(0#0#0"4300885448#522"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs0#
+lSLF07#2@63"Link /Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs291216629#291216629#0(0"0(0#0#0"4300885448#522"    cd /Users/uc0079/Documents/LearnCocoa/songs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -F/Users/uc0079/Documents/LearnCocoa/songs/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/songs/build/songs.build/Debug/songs.build/Objects-normal/x86_64/songs.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/songs/build/Debug/songs0#
 
 CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/songs_Prefix-fzepceylvzogivemowjyeeaswjnn/songs_Prefix.pch.gch songs_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s291210492.567750

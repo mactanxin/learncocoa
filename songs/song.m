@@ -30,4 +30,8 @@
 	[artist release];
 	artist = newArtist;
 }
+//覆盖NSObject的description方法
+- (NSString *)description{
+	return [self name];
+}
 @end

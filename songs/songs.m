@@ -14,8 +14,10 @@ int main (int argc, const char * argv[]) {
 	[song2 setName:@"Ace Combat 5 Theme"];
 	[song2 setArtist:@"NBGI"];
 	
-	NSLog(@"Song 1: %@",[song1 name]);
-	NSLog(@"Song 2: %@",[song2 name]);
+	//NSLog(@"Song 1: %@",[song1 name]);
+	//NSLog(@"Song 2: %@",[song2 name]);
+	NSLog(@"Song 1: %@",song1);
+	NSLog(@"Song 2: %@",song2);
 	
     [pool drain];
     return 0;
