@@ -1,7 +1,7 @@
 Tstrings
 v7
 r0
-t291264445.266908
+t291281951.745832
 cCheck dependencies
 cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch strings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o /Users/uc0079/Documents/LearnCocoa/strings/strings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -23,7 +23,7 @@ t1255686957
 s11760704
 
 N/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings
-t1269571645
+t1269589151
 s9280
 
 N/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.LinkFileList
@@ -32,13 +32,13 @@ t1269571631
 s115
 
 N/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o
-t1269571644
-s7320
+t1269589151
+s7984
 
 N/Users/uc0079/Documents/LearnCocoa/strings/strings.m
-c000000004BAC202E000000000000012B
-t1269571630
-s299
+c000000004BAC649F00000000000002D0
+t1269589151
+s720
 i<Foundation/Foundation.h>
 
 N/Users/uc0079/Documents/LearnCocoa/strings/strings_Prefix.pch
@@ -53,11 +53,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies291264431#291264431#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies291281951#291281951#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o /Users/uc0079/Documents/LearnCocoa/strings/strings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s291264444.719645
-e291264444.949551
+s291281951.161644
+e291281951.720984
 r1
 xCompileC
 xbuild/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o
@@ -66,17 +66,19 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/uc0079/Documents/LearnCocoa/strings/strings.m291264444#291264444#0(0"0(0#0#52"/Users/uc0079/Documents/LearnCocoa/strings/strings.m4300885448#1500"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/strings/strings.m -o /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o0#
+o/Users/uc0079/Documents/LearnCocoa/strings/strings.m: In function 'main':
+o/Users/uc0079/Documents/LearnCocoa/strings/strings.m:13: warning: format '%i' expects type 'int', but argument 2 has type 'NSUInteger'
+lSLF07#2@60"Compile /Users/uc0079/Documents/LearnCocoa/strings/strings.m291281951#291281951#0(209"/Users/uc0079/Documents/LearnCocoa/strings/strings.m: In function 'main':/Users/uc0079/Documents/LearnCocoa/strings/strings.m:13: warning: format '%i' expects type 'int', but argument 2 has type 'NSUInteger'1(22@68"Format '%i' expects type 'int', but argument 2 has type 'NSUInteger'291281951#74#135#0(6@52"/Users/uc0079/Documents/LearnCocoa/strings/strings.m291281951#13#0#13#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#52"/Users/uc0079/Documents/LearnCocoa/strings/strings.m4300885448#1500"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/strings/strings.m -o /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o0#
 
 CLd /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings normal x86_64
-s291264444.949646
-e291264445.266855
+s291281951.721137
+e291281951.745424
 r1
 xLd
 x/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings
 xnormal
 xx86_64
-lSLF07#2@67"Link /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings291264444#291264445#0(0"0(0#0#0"4300885448#540"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings0#
+lSLF07#2@67"Link /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings291281951#291281951#0(0"0(0#0#0"4300885448#540"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings0#
 
 CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch strings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s291264431.720765
