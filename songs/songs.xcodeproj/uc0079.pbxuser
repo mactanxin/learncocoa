@@ -48,6 +48,8 @@
 			CC5613D5115C4EC900FA48FB /* XCBuildMessageTextBookmark */ = CC5613D5115C4EC900FA48FB /* XCBuildMessageTextBookmark */;
 			CC5613D6115C4EC900FA48FB /* PBXTextBookmark */ = CC5613D6115C4EC900FA48FB /* PBXTextBookmark */;
 			CC5613D9115C518300FA48FB /* PBXTextBookmark */ = CC5613D9115C518300FA48FB /* PBXTextBookmark */;
+			CC5613DC115C51FD00FA48FB /* PBXTextBookmark */ = CC5613DC115C51FD00FA48FB /* PBXTextBookmark */;
+			CC5613DD115C51FD00FA48FB /* PBXTextBookmark */ = CC5613DD115C51FD00FA48FB /* PBXTextBookmark */;
 		};
 		sourceControlManager = CC56138C115AF54200FA48FB /* Source Control */;
 		userBuildSettings = {
@@ -55,9 +57,9 @@
 	};
 	08FB7796FE84155DC02AAC07 /* songs.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {611, 377}}";
-			sepNavSelRange = "{645, 0}";
-			sepNavVisRange = "{0, 754}";
+			sepNavIntBoundsRect = "{{0, 0}, {611, 416}}";
+			sepNavSelRange = "{761, 0}";
+			sepNavVisRange = "{95, 721}";
 		};
 	};
 	32A70AAB03705E1F00C91783 /* songs_Prefix.pch */ = {
@@ -228,5 +230,25 @@
 		rType = 0;
 		vrLen = 462;
 		vrLoc = 224;
+	};
+	CC5613DC115C51FD00FA48FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC56138F115AF55500FA48FB /* song.m */;
+		name = "song.m: 30";
+		rLen = 0;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 224;
+	};
+	CC5613DD115C51FD00FA48FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* songs.m */;
+		name = "songs.m: 26";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 95;
 	};
 }

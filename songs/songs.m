@@ -23,6 +23,9 @@ int main (int argc, const char * argv[]) {
 	NSLog(@"Song 1: %@",[song1 name]);
 	NSLog(@"Song 2: %@",[song2 name]);
 	
+	[song1 release]; // 调用song1的 release方法释放
+	[song2 release];
+	
     [pool drain];
     return 0;
 }

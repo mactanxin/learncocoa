@@ -313,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>song.m</string>
+								<string>songs.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,17 +321,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>song.m</string>
+										<string>songs.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>CC5613D9115C518300FA48FB</string>
+										<string>CC5613DD115C51FD00FA48FB</string>
 										<key>history</key>
 										<array>
 											<string>CC5613D2115C4EC900FA48FB</string>
 											<string>CC5613D3115C4EC900FA48FB</string>
+											<string>CC5613DC115C51FD00FA48FB</string>
 											<string>CC5613D4115C4EC900FA48FB</string>
-											<string>CC5613D5115C4EC900FA48FB</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -533,8 +533,8 @@
 		<string>CC5613D8115C4EC900FA48FB</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>CC561396115AF59100FA48FB</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/uc0079/Documents/LearnCocoa/songs/songs.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>47 163 880 615 0 0 1280 778 </string>
