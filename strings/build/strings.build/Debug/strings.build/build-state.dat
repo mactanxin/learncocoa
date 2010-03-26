@@ -1,0 +1,93 @@
+Tstrings
+v7
+r0
+t291264445.266908
+cCheck dependencies
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch strings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o /Users/uc0079/Documents/LearnCocoa/strings/strings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings
+t1269571645
+s9280
+
+N/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.LinkFileList
+c000000004BAC202F0000000000000073
+t1269571631
+s115
+
+N/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o
+t1269571644
+s7320
+
+N/Users/uc0079/Documents/LearnCocoa/strings/strings.m
+c000000004BAC202E000000000000012B
+t1269571630
+s299
+i<Foundation/Foundation.h>
+
+N/Users/uc0079/Documents/LearnCocoa/strings/strings_Prefix.pch
+c000000004BAC1FAF000000000000009C
+t1269571503
+s156
+i<Foundation/Foundation.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch
+t1269571644
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291264431#291264431#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o /Users/uc0079/Documents/LearnCocoa/strings/strings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291264444.719645
+e291264444.949551
+r1
+xCompileC
+xbuild/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o
+x/Users/uc0079/Documents/LearnCocoa/strings/strings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/uc0079/Documents/LearnCocoa/strings/strings.m291264444#291264444#0(0"0(0#0#52"/Users/uc0079/Documents/LearnCocoa/strings/strings.m4300885448#1500"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/strings/strings.m -o /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.o0#
+
+CLd /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings normal x86_64
+s291264444.949646
+e291264445.266855
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings291264444#291264445#0(0"0(0#0#0"4300885448#540"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/Objects-normal/x86_64/strings.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/strings/build/Debug/strings0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch strings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291264431.720765
+e291264444.719373
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch
+xstrings_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile strings_Prefix.pch291264431#291264444#0(0"0(0#0#61"/Users/uc0079/Documents/LearnCocoa/strings/strings_Prefix.pch4300885448#1396"    cd /Users/uc0079/Documents/LearnCocoa/strings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/strings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/strings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/strings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/strings/build/strings.build/Debug/strings.build/DerivedSources -c /Users/uc0079/Documents/LearnCocoa/strings/strings_Prefix.pch -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/strings_Prefix-bygrpfxtbrgkjabuvrqtequeijcm/strings_Prefix.pch.gch0#
+

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'strings' target in the 'strings' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
