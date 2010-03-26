@@ -34,4 +34,10 @@
 - (NSString *)description{
 	return [super description];
 }
+/* 调用父类的init方法*/
+- init{
+	[super init];
+	/* 在此添加子类的私有init内容 */
+	return self;
+}
 @end
