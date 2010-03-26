@@ -14,6 +14,7 @@
 	NSString * artist;
 
 }
+-(id)initWithName:(NSString *)newName artist:(NSString *)newArtist;
 -(NSString *)name;
 -(void)setName:(NSString *)newName;
 -(NSString *)artist;

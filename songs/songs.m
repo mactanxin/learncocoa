@@ -6,6 +6,7 @@ int main (int argc, const char * argv[]) {
 
     // insert code here...
     NSLog(@"Here's my way!");
+	/*
 	song * song1 = [[song alloc] init];
 	[song1 setName:@"zero"];
 	[song1 setArtist:@"namco"];
@@ -16,8 +17,11 @@ int main (int argc, const char * argv[]) {
 	
 	//NSLog(@"Song 1: %@",[song1 name]);
 	//NSLog(@"Song 2: %@",[song2 name]);
-	NSLog(@"Song 1: %@",song1);
-	NSLog(@"Song 2: %@",song2);
+	 */
+	song * song1 = [[song alloc] initWithName:@"zero" artist:@"namco"];
+	song * song2 = [[song alloc] initWithName:@"Ace Theme" artist:@"NBGI"];
+	NSLog(@"Song 1: %@",[song1 name]);
+	NSLog(@"Song 2: %@",[song2 name]);
 	
     [pool drain];
     return 0;
