@@ -47,6 +47,7 @@
 			CC5613D4115C4EC900FA48FB /* PBXTextBookmark */ = CC5613D4115C4EC900FA48FB /* PBXTextBookmark */;
 			CC5613D5115C4EC900FA48FB /* XCBuildMessageTextBookmark */ = CC5613D5115C4EC900FA48FB /* XCBuildMessageTextBookmark */;
 			CC5613D6115C4EC900FA48FB /* PBXTextBookmark */ = CC5613D6115C4EC900FA48FB /* PBXTextBookmark */;
+			CC5613D9115C518300FA48FB /* PBXTextBookmark */ = CC5613D9115C518300FA48FB /* PBXTextBookmark */;
 		};
 		sourceControlManager = CC56138C115AF54200FA48FB /* Source Control */;
 		userBuildSettings = {
@@ -125,9 +126,9 @@
 	};
 	CC56138F115AF55500FA48FB /* song.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {611, 676}}";
-			sepNavSelRange = "{759, 0}";
-			sepNavVisRange = "{382, 383}";
+			sepNavIntBoundsRect = "{{0, 0}, {611, 806}}";
+			sepNavSelRange = "{503, 0}";
+			sepNavVisRange = "{224, 462}";
 		};
 	};
 	CC561391115AF59100FA48FB /* PBXTextBookmark */ = {
@@ -156,7 +157,7 @@
 		fRef = CC56138F115AF55500FA48FB /* song.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 49;
+		rLoc = 57;
 		rType = 1;
 	};
 	CC5613C8115C4E7600FA48FB /* PBXTextBookmark */ = {
@@ -164,7 +165,7 @@
 		fRef = CC56138F115AF55500FA48FB /* song.m */;
 		name = "song.m: 51";
 		rLen = 0;
-		rLoc = 759;
+		rLoc = 933;
 		rType = 0;
 		vrLen = 211;
 		vrLoc = 616;
@@ -205,7 +206,7 @@
 		fRef = CC56138F115AF55500FA48FB /* song.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 49;
+		rLoc = 57;
 		rType = 1;
 	};
 	CC5613D6115C4EC900FA48FB /* PBXTextBookmark */ = {
@@ -213,9 +214,19 @@
 		fRef = CC56138F115AF55500FA48FB /* song.m */;
 		name = "song.m: 50";
 		rLen = 0;
-		rLoc = 759;
+		rLoc = 933;
 		rType = 0;
 		vrLen = 383;
 		vrLoc = 382;
+	};
+	CC5613D9115C518300FA48FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC56138F115AF55500FA48FB /* song.m */;
+		name = "song.m: 30";
+		rLen = 0;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 224;
 	};
 }

@@ -22,6 +22,14 @@
 	[self setArtist:newArtist];
 	return self;
 }
+/* 对象回收 */
+- (void)dealloc
+{
+	NSLog(@"Deallocating: %@", self);
+	[name release];		// 释放变量 name
+	[artist release];	// 释放变量 artist
+	[super dealloc];	// 调用NSObject类的dealloc方法
+}
 - (NSString *)name
 {
 	return name;
