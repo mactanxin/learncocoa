@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CC561441115E2F0200FA48FB /* filestrings */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* filestrings */;
+		breakpoints = (
+			CC561462115E311900FA48FB /* filestrings.m:15 */,
+		);
+		codeSenseManager = CC561446115E2F2100FA48FB /* Code sense */;
+		executables = (
+			CC561441115E2F0200FA48FB /* filestrings */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 291385090;
+			PBXWorkspaceStateSaveDate = 291385090;
+		};
+		perUserProjectItems = {
+			CC561453115E30BE00FA48FB /* XCBuildMessageTextBookmark */ = CC561453115E30BE00FA48FB /* XCBuildMessageTextBookmark */;
+			CC561454115E30BE00FA48FB /* PBXTextBookmark */ = CC561454115E30BE00FA48FB /* PBXTextBookmark */;
+		};
+		sourceControlManager = CC561445115E2F2100FA48FB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* filestrings.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 247}}";
+			sepNavSelRange = "{409, 0}";
+			sepNavVisRange = "{0, 517}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* filestrings */ = {
+		activeExec = 0;
+		executables = (
+			CC561441115E2F0200FA48FB /* filestrings */,
+		);
+	};
+	CC561441115E2F0200FA48FB /* filestrings */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = filestrings;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CC561445115E2F2100FA48FB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CC561446115E2F2100FA48FB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CC561453115E30BE00FA48FB /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)";
+		fRef = 08FB7796FE84155DC02AAC07 /* filestrings.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 13;
+		rType = 1;
+	};
+	CC561454115E30BE00FA48FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* filestrings.m */;
+		name = "filestrings.m: 13";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	CC561462115E311900FA48FB /* filestrings.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* filestrings.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 15;
+		location = filestrings;
+		modificationTime = 291385633.484283;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}
