@@ -5,7 +5,7 @@ int main (int argc, const char * argv[]) {
 
     // insert code here...
     NSLog(@"Everthing starts here!");
-	NSString * filename = @"~/Documents/LearnCocoa/filestrings/filestrings.m";
+	NSString * filename = @"~/Desktop/test.py";
 	filename = [filename stringByStandardizingPath]; 
 	printf("%s\n", [filename UTF8String]);
 	

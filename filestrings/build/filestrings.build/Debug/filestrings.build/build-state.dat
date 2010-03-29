@@ -1,7 +1,7 @@
 Tfilestrings
 v7
 r0
-t291385630.452700
+t291518950.619372
 cCheck dependencies
 cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/filestrings_Prefix-fsbjetkpwhoalyeskmwjbbyqsbud/filestrings_Prefix.pch.gch filestrings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -23,7 +23,7 @@ t1255686957
 s11760704
 
 N/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings
-t1269692795
+t1269826150
 s9424
 
 N/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.LinkFileList
@@ -32,13 +32,13 @@ t1269692456
 s131
 
 N/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o
-t1269692795
-s7892
+t1269826149
+s7852
 
 N/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m
-c000000004BADF97A0000000000000226
-t1269692794
-s550
+c000000004BB002620000000000000207
+t1269826146
+s519
 i<Foundation/Foundation.h>
 
 N/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings_Prefix.pch
@@ -53,11 +53,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies291385630#291385630#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies291518949#291518949#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s291385595.431806
-e291385595.888122
+s291518949.564788
+e291518949.932515
 r1
 xCompileC
 xbuild/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o
@@ -68,17 +68,17 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m: In function 'main':
 o/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m:13: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
-lSLF07#2@68"Compile /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m291385595#291385595#0(313"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m: In function 'main':/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m:13: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)291385595#82#231#0(6@60"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m291385594#13#0#13#0#33"'*' is deprecated (declared at *)0(0#0#60"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m4300885448#1632"    cd /Users/uc0079/Documents/LearnCocoa/filestrings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/filestrings_Prefix-fsbjetkpwhoalyeskmwjbbyqsbud/filestrings_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m -o /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o0#
+lSLF07#2@68"Compile /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m291518949#291518949#0(313"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m: In function 'main':/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m:13: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)291518949#82#231#0(6@60"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m291518946#13#0#13#0#33"'*' is deprecated (declared at *)0(0#0#60"/Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m4300885448#1632"    cd /Users/uc0079/Documents/LearnCocoa/filestrings    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/filestrings-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/filestrings_Prefix-fsbjetkpwhoalyeskmwjbbyqsbud/filestrings_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/filestrings/filestrings.m -o /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.o0#
 
 CLd /Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings normal x86_64
-s291385595.888236
-e291385595.951917
+s291518949.932618
+e291518950.619322
 r1
 xLd
 x/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings
 xnormal
 xx86_64
-lSLF07#2@75"Link /Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings291385595#291385595#0(0"0(0#0#0"4300885448#576"    cd /Users/uc0079/Documents/LearnCocoa/filestrings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -F/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings0#
+lSLF07#2@75"Link /Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings291518949#291518950#0(0"0(0#0#0"4300885448#576"    cd /Users/uc0079/Documents/LearnCocoa/filestrings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -F/Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/filestrings/build/filestrings.build/Debug/filestrings.build/Objects-normal/x86_64/filestrings.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/filestrings/build/Debug/filestrings0#
 
 CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/filestrings_Prefix-fsbjetkpwhoalyeskmwjbbyqsbud/filestrings_Prefix.pch.gch filestrings_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s291385256.347332
