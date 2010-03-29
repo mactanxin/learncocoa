@@ -9,6 +9,13 @@ int main (int argc, const char * argv[]) {
 	[array addObject:@"sheldon Cooper"];
 	[array addObject:@"bazinga!"];
 	printf("%s\n",[[array description] UTF8String]);
+	
+	[array insertObject:@"Raj" atIndex:2];
+	printf("%s\n",[[array description] UTF8String]);
+	
+	[array removeObject:@"Raj"];
+	printf("%s\n",[[array description] UTF8String]);
+	
 	[array release];
     [pool drain];
     return 0;

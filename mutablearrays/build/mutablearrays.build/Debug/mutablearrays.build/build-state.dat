@@ -1,7 +1,7 @@
 Tmutablearrays
 v7
 r0
-t291522475.397410
+t291522835.371725
 cCheck dependencies
 cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mutablearrays_Prefix-giptibcauqtdnhemztzuxpqexlmh/mutablearrays_Prefix.pch.gch mutablearrays_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -23,7 +23,7 @@ t1255686957
 s11760704
 
 N/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays
-t1269829675
+t1269830035
 s9448
 
 N/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.LinkFileList
@@ -32,13 +32,13 @@ t1269829612
 s139
 
 N/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o
-t1269829675
-s8144
+t1269830035
+s8624
 
 N/Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m
-c000000004BB0102A00000000000001B7
-t1269829674
-s439
+c000000004BB011920000000000000267
+t1269830034
+s615
 i<Foundation/Foundation.h>
 
 N/Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays_Prefix.pch
@@ -53,11 +53,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies291522474#291522474#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies291522834#291522834#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s291522474.958645
-e291522475.317905
+s291522834.818703
+e291522835.248601
 r1
 xCompileC
 xbuild/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o
@@ -66,17 +66,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m291522474#291522475#0(0"0(0#0#64"/Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m4300885448#1698"    cd /Users/uc0079/Documents/LearnCocoa/mutablearrays    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mutablearrays_Prefix-giptibcauqtdnhemztzuxpqexlmh/mutablearrays_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m -o /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o0#
+lSLF07#2@72"Compile /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m291522834#291522835#0(0"0(0#0#64"/Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m4300885448#1698"    cd /Users/uc0079/Documents/LearnCocoa/mutablearrays    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/mutablearrays-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mutablearrays_Prefix-giptibcauqtdnhemztzuxpqexlmh/mutablearrays_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/mutablearrays/mutablearrays.m -o /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.o0#
 
 CLd /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays normal x86_64
-s291522475.318002
-e291522475.397358
+s291522835.249077
+e291522835.371668
 r1
 xLd
 x/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays
 xnormal
 xx86_64
-lSLF07#2@79"Link /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays291522475#291522475#0(0"0(0#0#0"4300885448#594"    cd /Users/uc0079/Documents/LearnCocoa/mutablearrays    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -F/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays0#
+lSLF07#2@79"Link /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays291522835#291522835#0(0"0(0#0#0"4300885448#594"    cd /Users/uc0079/Documents/LearnCocoa/mutablearrays    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -F/Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/mutablearrays.build/Debug/mutablearrays.build/Objects-normal/x86_64/mutablearrays.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/mutablearrays/build/Debug/mutablearrays0#
 
 CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mutablearrays_Prefix-giptibcauqtdnhemztzuxpqexlmh/mutablearrays_Prefix.pch.gch mutablearrays_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s291522412.203687
