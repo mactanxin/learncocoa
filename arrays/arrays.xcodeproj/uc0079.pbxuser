@@ -5,7 +5,7 @@
 		activeExecutable = CC56147A11603A4400FA48FB /* arrays */;
 		activeTarget = 8DD76F960486AA7600D96B5E /* arrays */;
 		breakpoints = (
-			CC56148711603B3D00FA48FB /* arrays.m:12 */,
+			CC56148711603B3D00FA48FB /* arrays.m:13 */,
 		);
 		codeSenseManager = CC56147F11603A6300FA48FB /* Code sense */;
 		executables = (
@@ -42,6 +42,7 @@
 			CC56148311603B3700FA48FB /* PBXTextBookmark */ = CC56148311603B3700FA48FB /* PBXTextBookmark */;
 			CC56149411603B9C00FA48FB /* PBXTextBookmark */ = CC56149411603B9C00FA48FB /* PBXTextBookmark */;
 			CC56149511603B9C00FA48FB /* PBXTextBookmark */ = CC56149511603B9C00FA48FB /* PBXTextBookmark */;
+			CC5614A311603C1D00FA48FB /* PBXTextBookmark */ = CC5614A311603C1D00FA48FB /* PBXTextBookmark */;
 		};
 		sourceControlManager = CC56147E11603A6300FA48FB /* Source Control */;
 		userBuildSettings = {
@@ -50,8 +51,8 @@
 	08FB7796FE84155DC02AAC07 /* arrays.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {738, 343}}";
-			sepNavSelRange = "{475, 0}";
-			sepNavVisRange = "{0, 573}";
+			sepNavSelRange = "{554, 0}";
+			sepNavVisRange = "{0, 592}";
 		};
 	};
 	8DD76F960486AA7600D96B5E /* arrays */ = {
@@ -110,7 +111,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* arrays.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 16;
+		rLoc = 18;
 		rType = 1;
 	};
 	CC56148311603B3700FA48FB /* PBXTextBookmark */ = {
@@ -118,12 +119,12 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* arrays.m */;
 		name = "arrays.m: 16";
 		rLen = 2;
-		rLoc = 571;
+		rLoc = 590;
 		rType = 0;
 		vrLen = 558;
 		vrLoc = 0;
 	};
-	CC56148711603B3D00FA48FB /* arrays.m:12 */ = {
+	CC56148711603B3D00FA48FB /* arrays.m:13 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -135,7 +136,7 @@
 		functionName = "main()";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 12;
+		lineNumber = 13;
 		modificationTime = 291519318.594072;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
@@ -145,7 +146,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* arrays.m */;
 		name = "arrays.m: 16";
 		rLen = 0;
-		rLoc = 572;
+		rLoc = 591;
 		rType = 0;
 		vrLen = 558;
 		vrLoc = 0;
@@ -155,9 +156,19 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* arrays.m */;
 		name = "arrays.m: 12";
 		rLen = 0;
-		rLoc = 475;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 573;
+		vrLoc = 0;
+	};
+	CC5614A311603C1D00FA48FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* arrays.m */;
+		name = "arrays.m: 15";
+		rLen = 0;
+		rLoc = 554;
+		rType = 0;
+		vrLen = 592;
 		vrLoc = 0;
 	};
 }

@@ -10,7 +10,9 @@ int main (int argc, const char * argv[]) {
 	int count = [array count];
 	int i;
 	for (i = 0;i < count; i++){			// 循环遍历数组
-		printf("%i:%s\n",i,[[array objectAtIndex:i] UTF8String]);
+		if(i == 3){
+			printf("%i:%s\n",i,[[array objectAtIndex:i] UTF8String]);
+		}
 	}
     [pool drain];
     return 0;
