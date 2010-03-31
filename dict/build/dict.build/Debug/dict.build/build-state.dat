@@ -1,0 +1,93 @@
+Tdict
+v7
+r0
+t291697761.337964
+cCheck dependencies
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch.gch dict_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.o /Users/uc0079/Documents/LearnCocoa/dict/dict.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B25D6F80000000000B37440
+t1260771064
+s11760704
+
+N/Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict
+t1270004961
+s9472
+
+N/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.LinkFileList
+c000000004BB2B6030000000000000067
+t1270003203
+s103
+
+N/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.o
+t1270004961
+s9152
+
+N/Users/uc0079/Documents/LearnCocoa/dict/dict.m
+c000000004BB2BCDF0000000000000349
+t1270004959
+s841
+i<Foundation/Foundation.h>
+
+N/Users/uc0079/Documents/LearnCocoa/dict/dict_Prefix.pch
+c000000004BB2B5160000000000000096
+t1270002966
+s150
+i<Foundation/Foundation.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch.gch
+t1270003206
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291697761#291697761#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.o /Users/uc0079/Documents/LearnCocoa/dict/dict.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291697761.009448
+e291697761.317672
+r1
+xCompileC
+xbuild/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.o
+x/Users/uc0079/Documents/LearnCocoa/dict/dict.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/uc0079/Documents/LearnCocoa/dict/dict.m291697761#291697761#0(0"0(0#0#46"/Users/uc0079/Documents/LearnCocoa/dict/dict.m4300885448#1401"    cd /Users/uc0079/Documents/LearnCocoa/dict    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/dict/build/Debug -I/Users/uc0079/Documents/LearnCocoa/dict/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/dict/dict.m -o /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.o0#
+
+CLd /Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict normal x86_64
+s291697761.317762
+e291697761.337914
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict291697761#291697761#0(0"0(0#0#0"4300885448#513"    cd /Users/uc0079/Documents/LearnCocoa/dict    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/dict/build/Debug -F/Users/uc0079/Documents/LearnCocoa/dict/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/Objects-normal/x86_64/dict.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/dict/build/Debug/dict0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch.gch dict_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291696003.620247
+e291696006.476531
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch.gch
+xdict_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile dict_Prefix.pch291696003#291696006#0(0"0(0#0#55"/Users/uc0079/Documents/LearnCocoa/dict/dict_Prefix.pch7594247044540490752#1309"    cd /Users/uc0079/Documents/LearnCocoa/dict    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/dict-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/dict/build/Debug -I/Users/uc0079/Documents/LearnCocoa/dict/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/dict/build/dict.build/Debug/dict.build/DerivedSources -c /Users/uc0079/Documents/LearnCocoa/dict/dict_Prefix.pch -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/dict_Prefix-cabkwyxapxugwzgwvhxfnmlucrmd/dict_Prefix.pch.gch0#
+
