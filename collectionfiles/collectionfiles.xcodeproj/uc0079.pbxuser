@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CC4813F4116326C2002F944D /* collectionfiles */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* collectionfiles */;
+		codeSenseManager = CC4813F9116326E1002F944D /* Code sense */;
+		executables = (
+			CC4813F4116326C2002F944D /* collectionfiles */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					430,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291710659;
+			PBXWorkspaceStateSaveDate = 291710659;
+		};
+		perUserProjectItems = {
+			CC481407116328F9002F944D /* XCBuildMessageTextBookmark */ = CC481407116328F9002F944D /* XCBuildMessageTextBookmark */;
+			CC481408116328F9002F944D /* PBXTextBookmark */ = CC481408116328F9002F944D /* PBXTextBookmark */;
+			CC48140B1163290E002F944D /* PBXTextBookmark */ = CC48140B1163290E002F944D /* PBXTextBookmark */;
+			CC48140E1163291F002F944D /* PBXTextBookmark */ = CC48140E1163291F002F944D /* PBXTextBookmark */;
+			CC48141111632964002F944D /* XCBuildMessageTextBookmark */ = CC48141111632964002F944D /* XCBuildMessageTextBookmark */;
+			CC48141211632964002F944D /* PBXTextBookmark */ = CC48141211632964002F944D /* PBXTextBookmark */;
+		};
+		sourceControlManager = CC4813F8116326E1002F944D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* collectionfiles.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {608, 312}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{35, 643}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* collectionfiles */ = {
+		activeExec = 0;
+		executables = (
+			CC4813F4116326C2002F944D /* collectionfiles */,
+		);
+	};
+	CC4813F4116326C2002F944D /* collectionfiles */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = collectionfiles;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CC4813F8116326E1002F944D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CC4813F9116326E1002F944D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CC481407116328F9002F944D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)";
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 18;
+		rType = 1;
+	};
+	CC481408116328F9002F944D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		name = "collectionfiles.m: 18";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 294;
+	};
+	CC48140B1163290E002F944D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		name = "collectionfiles.m: 18";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 294;
+	};
+	CC48140E1163291F002F944D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		name = "collectionfiles.m: 18";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 427;
+		vrLoc = 144;
+	};
+	CC48141111632964002F944D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)";
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 18;
+		rType = 1;
+	};
+	CC48141211632964002F944D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* collectionfiles.m */;
+		name = "collectionfiles.m: 8";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 35;
+	};
+}

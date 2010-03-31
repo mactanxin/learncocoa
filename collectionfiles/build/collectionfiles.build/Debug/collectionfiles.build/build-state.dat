@@ -1,0 +1,95 @@
+Tcollectionfiles
+v7
+r0
+t291711308.589730
+cCheck dependencies
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch.gch collectionfiles_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.o /Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B25D6F80000000000B37440
+t1260771064
+s11760704
+
+N/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles
+t1270018508
+s9520
+
+N/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.LinkFileList
+c000000004BB2F0470000000000000093
+t1270018119
+s147
+
+N/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.o
+t1270018508
+s8864
+
+N/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m
+c000000004BB2F1CC00000000000002A8
+t1270018508
+s680
+i<Foundation/Foundation.h>
+
+N/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles_Prefix.pch
+c000000004BB2EF4200000000000000AC
+t1270017858
+s172
+i<Foundation/Foundation.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch.gch
+t1270018122
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291711308#291711308#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.o /Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291711308.069396
+e291711308.527155
+r1
+xCompileC
+xbuild/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.o
+x/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m: In function 'main':
+o/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m:17: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
+lSLF07#2@76"Compile /Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m291711308#291711308#0(329"/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m: In function 'main':/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m:17: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)291711308#90#239#0(6@68"/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m291711308#17#0#17#0#33"'*' is deprecated (declared at *)0(0#0#68"/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m4300885448#1764"    cd /Users/uc0079/Documents/LearnCocoa/collectionfiles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles.m -o /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.o0#
+
+CLd /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles normal x86_64
+s291711308.527252
+e291711308.589679
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles
+xnormal
+xx86_64
+lSLF07#2@83"Link /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles291711308#291711308#0(0"0(0#0#0"4300885448#612"    cd /Users/uc0079/Documents/LearnCocoa/collectionfiles    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug -F/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/Objects-normal/x86_64/collectionfiles.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/collectionfiles0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch.gch collectionfiles_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291710919.508368
+e291710922.794229
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch.gch
+xcollectionfiles_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile collectionfiles_Prefix.pch291710919#291710922#0(0"0(0#0#77"/Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles_Prefix.pch4300885448#1628"    cd /Users/uc0079/Documents/LearnCocoa/collectionfiles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/collectionfiles-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/collectionfiles/build/collectionfiles.build/Debug/collectionfiles.build/DerivedSources -c /Users/uc0079/Documents/LearnCocoa/collectionfiles/collectionfiles_Prefix.pch -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/collectionfiles_Prefix-dlsltgcrzvxzdugbpxjpdrapczei/collectionfiles_Prefix.pch.gch0#
+
