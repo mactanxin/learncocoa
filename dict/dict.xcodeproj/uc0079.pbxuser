@@ -5,8 +5,8 @@
 		activeExecutable = CC4813B91162EC96002F944D /* dict */;
 		activeTarget = 8DD76F960486AA7600D96B5E /* dict */;
 		breakpoints = (
-			CC4813D31162EDFD002F944D /* dict.m:12 */,
-			CC4813D91162EEC8002F944D /* dict.m:12 */,
+			CC4813D31162EDFD002F944D /* dict.m:18 */,
+			CC4813D91162EEC8002F944D /* dict.m:18 */,
 		);
 		codeSenseManager = CC4813BF1162ECB6002F944D /* Code sense */;
 		executables = (
@@ -44,6 +44,7 @@
 			CC4813E01162EFBB002F944D /* PBXTextBookmark */ = CC4813E01162EFBB002F944D /* PBXTextBookmark */;
 			CC4813E11162EFBB002F944D /* PBXTextBookmark */ = CC4813E11162EFBB002F944D /* PBXTextBookmark */;
 			CC4813EE1162F478002F944D /* PBXTextBookmark */ = CC4813EE1162F478002F944D /* PBXTextBookmark */;
+			CC4813EF1162F4A3002F944D /* PBXTextBookmark */ = CC4813EF1162F4A3002F944D /* PBXTextBookmark */;
 		};
 		sourceControlManager = CC4813BE1162ECB6002F944D /* Source Control */;
 		userBuildSettings = {
@@ -52,8 +53,8 @@
 	08FB7796FE84155DC02AAC07 /* dict.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {751, 352}}";
-			sepNavSelRange = "{495, 0}";
-			sepNavVisRange = "{0, 530}";
+			sepNavSelRange = "{806, 0}";
+			sepNavVisRange = "{0, 841}";
 		};
 	};
 	8DD76F960486AA7600D96B5E /* dict */ = {
@@ -127,7 +128,7 @@
 		vrLen = 534;
 		vrLoc = 0;
 	};
-	CC4813D31162EDFD002F944D /* dict.m:12 */ = {
+	CC4813D31162EDFD002F944D /* dict.m:18 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -139,13 +140,13 @@
 		functionName = "main()";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 12;
+		lineNumber = 18;
 		location = dict;
 		modificationTime = 291696350.088248;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	CC4813D91162EEC8002F944D /* dict.m:12 */ = {
+	CC4813D91162EEC8002F944D /* dict.m:18 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -157,7 +158,7 @@
 		functionName = "main()";
 		hitCount = 1;
 		ignoreCount = 0;
-		lineNumber = 12;
+		lineNumber = 18;
 		location = dict;
 		modificationTime = 291696351.098221;
 		originalNumberOfMultipleMatches = 1;
@@ -178,7 +179,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* dict.m */;
 		name = "dict.m: 14";
 		rLen = 0;
-		rLoc = 529;
+		rLoc = 840;
 		rType = 0;
 		vrLen = 529;
 		vrLoc = 0;
@@ -188,9 +189,19 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* dict.m */;
 		name = "dict.m: 12";
 		rLen = 0;
-		rLoc = 495;
+		rLoc = 806;
 		rType = 0;
 		vrLen = 530;
+		vrLoc = 0;
+	};
+	CC4813EF1162F4A3002F944D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* dict.m */;
+		name = "dict.m: 18";
+		rLen = 0;
+		rLoc = 806;
+		rType = 0;
+		vrLen = 841;
 		vrLoc = 0;
 	};
 }
