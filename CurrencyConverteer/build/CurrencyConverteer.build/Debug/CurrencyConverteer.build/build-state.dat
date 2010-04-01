@@ -1,0 +1,257 @@
+TCurrencyConverteer
+v7
+r0
+t291782437.139038
+cCheck dependencies
+cProcessInfoPlistFile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Info.plist CurrencyConverteer-Info.plist
+cCopyStringsFile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch.gch CurrencyConverteer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/main.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteerAppDelegate.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Controller.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Converter.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer normal x86_64
+cTouch /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.h
+c000000004BB405DD0000000000000159
+t1270089181
+s345
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m
+c000000004BB4058600000000000001AA
+t1270089094
+s426
+i"Controller.h"
+i"Converter.h"
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.h
+c000000004BB4049C0000000000000109
+t1270088860
+s265
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m
+c000000004BB406D40000000000000114
+t1270089428
+s276
+i"Converter.h"
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.h
+c000000004BB401210000000000000158
+t1270087969
+s344
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m
+c000000004BB401210000000000000198
+t1270087969
+s408
+i"CurrencyConverteerAppDelegate.h"
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteer_Prefix.pch
+c000000004BB4012100000000000000A7
+t1270087969
+s167
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/InfoPlist.strings
+c000000004BB40121000000000000002D
+t1270087969
+s45
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib
+c000000004BB40799000000000002A832
+t1270089625
+s174130
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Controller.o
+t1270089184
+s8084
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Converter.o
+t1270089430
+s6720
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteer.LinkFileList
+c000000004BB4058B0000000000000268
+t1270089099
+s616
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteerAppDelegate.o
+t1270089110
+s21416
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/main.o
+t1270089110
+s5024
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app
+t1270089629
+s102
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Info.plist
+t1270089099
+s919
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer
+t1270089431
+s16632
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/PkgInfo
+t1270089099
+s8
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1270089100
+s92
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1270089629
+s39266
+
+N/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m
+c000000004BB401210000000000000104
+t1270087969
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch.gch
+t1270089109
+s54212368
+
+NCurrencyConverteer-Info.plist
+c000000004BB4012100000000000003EA
+t1270087969
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291782437#291782437#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Controller.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291781984.227634
+e291781984.421596
+r1
+xCompileC
+xbuild/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Controller.o
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m291781984#291781984#0(0"0(0#0#66"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m4300885448#1847"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Controller.m -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Controller.o0#
+
+CCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Converter.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291782230.097381
+e291782230.475080
+r1
+xCompileC
+xbuild/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Converter.o
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m291782230#291782230#0(0"0(0#0#65"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m4300885448#1845"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/Converter.m -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/Converter.o0#
+
+CCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteerAppDelegate.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291781909.732069
+e291781910.548394
+r1
+xCompileC
+xbuild/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteerAppDelegate.o
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m291781909#291781928#0(0"0(0#0#85"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m4300885448#1885"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteerAppDelegate.m -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteerAppDelegate.o0#
+
+CCompileC build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/main.o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291781909.719690
+e291781910.372672
+r1
+xCompileC
+xbuild/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/main.o
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m291781909#291781928#0(0"0(0#0#60"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m4300885448#1835"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/main.m -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib
+s291782428.820912
+e291782429.380569
+r1
+xCompileXIB
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib291782428#291782429#0(0"0(0#0#80"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib4300885448#383"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/MainMenu.nib /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s291781899.835490
+e291781900.364677
+r1
+xCopyStringsFile
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings291781899#291781900#0(0"0(0#0#85"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/English.lproj/InfoPlist.strings4300885448#406"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Resources/English.lproj0#
+
+CLd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer normal x86_64
+s291782230.475174
+e291782231.344781
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer
+xnormal
+xx86_64
+lSLF07#2@127"Link /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer291782230#291782231#0(0"0(0#0#0"4300885448#672"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/Objects-normal/x86_64/CurrencyConverteer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/MacOS/CurrencyConverteer0#
+
+CProcessInfoPlistFile /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Info.plist CurrencyConverteer-Info.plist
+s291781899.777776
+e291781899.835373
+r1
+xProcessInfoPlistFile
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Info.plist
+xCurrencyConverteer-Info.plist
+lSLF07#2@37"Process CurrencyConverteer-Info.plist291781899#291781899#0(0"0(0#0#83"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteer-Info.plist28429406447075440#388"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    builtin-infoPlistUtility CurrencyConverteer-Info.plist -genpkginfo /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch.gch CurrencyConverteer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291781900.526607
+e291781909.719490
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch.gch
+xCurrencyConverteer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile CurrencyConverteer_Prefix.pch291781900#291781928#0(0"0(0#0#83"/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteer_Prefix.pch4300885448#1715"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/CurrencyConverteer-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/CurrencyConverteer.build/Debug/CurrencyConverteer.build/DerivedSources -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/CurrencyConverteer_Prefix.pch -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverteer_Prefix-dtzxmqvsbpbldweukhzrqvftobtn/CurrencyConverteer_Prefix.pch.gch0#
+
+CTouch /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app
+s291782429.381290
+e291782429.409321
+r1
+xTouch
+x/Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app
+lSLF07#2@94"Touch /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app291782429#291782429#0(0"0(0#0#0"4300885448#172"    cd /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer    /usr/bin/touch -c /Users/uc0079/Documents/LearnCocoa/CurrencyConverteer/build/Debug/CurrencyConverteer.app0#
+
