@@ -1,0 +1,257 @@
+TBMICalculator
+v7
+r0
+t291872897.724237
+cCheck dependencies
+cProcessInfoPlistFile /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Info.plist BMICalculator-Info.plist
+cCopyStringsFile /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch.gch BMICalculator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/main.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculatorAppDelegate.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Controller.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Calculator.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator normal x86_64
+cTouch /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.h
+c000000004BB550020000000000000149
+t1270173698
+s329
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m
+c000000004BB550020000000000000184
+t1270173698
+s388
+i"BMICalculatorAppDelegate.h"
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculator_Prefix.pch
+c000000004BB55002000000000000009D
+t1270173698
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.h
+c000000004BB55E290000000000000108
+t1270177321
+s264
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m
+c000000004BB568FD000000000000012D
+t1270180093
+s301
+i"Calculator.h"
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.h
+c000000004BB55F8B000000000000018A
+t1270177675
+s394
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m
+c000000004BB55F2D00000000000001AB
+t1270177581
+s427
+i"Controller.h"
+i"Calculator.h"
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/InfoPlist.strings
+c000000004BB55002000000000000002D
+t1270173698
+s45
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib
+c000000004BB55F63000000000002B25D
+t1270177635
+s176733
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculator.LinkFileList
+c000000004BB5566E0000000000000228
+t1270175342
+s552
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculatorAppDelegate.o
+t1270175351
+s21280
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Calculator.o
+t1270180097
+s6884
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Controller.o
+t1270177745
+s8088
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/main.o
+t1270175351
+s5016
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app
+t1270180097
+s102
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Info.plist
+t1270175342
+s904
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator
+t1270180097
+s16480
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/PkgInfo
+t1270175342
+s8
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1270175343
+s92
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1270177742
+s39995
+
+N/Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m
+c000000004BB5500200000000000000FF
+t1270173698
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch.gch
+t1270175350
+s54212368
+
+NBMICalculator-Info.plist
+c000000004BB5500200000000000003EA
+t1270173698
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291872897#291872897#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculatorAppDelegate.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291868151.015725
+e291868151.386166
+r1
+xCompileC
+xbuild/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculatorAppDelegate.o
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m291868151#291868151#0(0"0(0#0#75"/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m4300885448#1720"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculatorAppDelegate.m -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculatorAppDelegate.o0#
+
+CCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Calculator.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291872897.163638
+e291872897.558656
+r1
+xCompileC
+xbuild/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Calculator.o
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m291872897#291872897#0(0"0(0#0#61"/Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m4300885448#1692"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/Calculator.m -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Calculator.o0#
+
+CCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Controller.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291870543.031899
+e291870548.342184
+r1
+xCompileC
+xbuild/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Controller.o
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m291870543#291870548#0(0"0(0#0#61"/Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m4300885448#1692"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/Controller.m -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/Controller.o0#
+
+CCompileC build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/main.o /Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291868151.001396
+e291868151.355987
+r1
+xCompileC
+xbuild/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/main.o
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m291868151#291868151#0(0"0(0#0#55"/Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m4300885448#1680"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/main.m -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib
+s291870541.785502
+e291870543.031272
+r1
+xCompileXIB
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib291870541#291870543#0(0"0(0#0#75"/Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib4300885448#363"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/MainMenu.nib /Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s291868142.495069
+e291868143.489858
+r1
+xCopyStringsFile
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings291868142#291868143#0(0"0(0#0#80"/Users/uc0079/Documents/LearnCocoa/BMICalculator/English.lproj/InfoPlist.strings4300885448#391"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Resources/English.lproj0#
+
+CLd /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator normal x86_64
+s291872897.558935
+e291872897.698547
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator291872897#291872897#0(0"0(0#0#0"4300885448#622"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -filelist /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/Objects-normal/x86_64/BMICalculator.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/MacOS/BMICalculator0#
+
+CProcessInfoPlistFile /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Info.plist BMICalculator-Info.plist
+s291868142.440225
+e291868142.494956
+r1
+xProcessInfoPlistFile
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Info.plist
+xBMICalculator-Info.plist
+lSLF07#2@32"Process BMICalculator-Info.plist291868142#291868142#0(0"0(0#0#73"/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculator-Info.plist32932993185022064#358"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    builtin-infoPlistUtility BMICalculator-Info.plist -genpkginfo /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch.gch BMICalculator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291868144.263751
+e291868151.001103
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch.gch
+xBMICalculator_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BMICalculator_Prefix.pch291868144#291868151#0(0"0(0#0#73"/Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculator_Prefix.pch4300885448#1570"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/include -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources/x86_64 -I/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/BMICalculator.build/Debug/BMICalculator.build/DerivedSources -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/BMICalculator_Prefix.pch -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-cwsfnnzxlvnjugfjfkvatpyllrnn/BMICalculator_Prefix.pch.gch0#
+
+CTouch /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app
+s291872897.698642
+e291872897.724187
+r1
+xTouch
+x/Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app
+lSLF07#2@84"Touch /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app291872897#291872897#0(0"0(0#0#0"4300885448#157"    cd /Users/uc0079/Documents/LearnCocoa/BMICalculator    /usr/bin/touch -c /Users/uc0079/Documents/LearnCocoa/BMICalculator/build/Debug/BMICalculator.app0#
+
