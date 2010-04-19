@@ -1,0 +1,226 @@
+TRed Square
+v7
+r0
+t293341030.797215
+cCheck dependencies
+cProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Info.plist" Red_Square-Info.plist
+cCopyStringsFile "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch.gch Red_Square_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/main.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red_SquareAppDelegate.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/MyView.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square" normal x86_64
+cTouch "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/InfoPlist.strings
+c000000004BCBCD23000000000000002D
+t1271647523
+s45
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib
+c000000004BCBCF7000000000000266F2
+t1271648112
+s157426
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.h
+c000000004BCBCD4400000000000000C6
+t1271647556
+s198
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m
+c000000004BCBCFDC00000000000001B5
+t1271648220
+s437
+i"MyView.h"
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.h
+c000000004BCBCD230000000000000141
+t1271647523
+s321
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m
+c000000004BCBCD230000000000000179
+t1271647523
+s377
+i"Red_SquareAppDelegate.h"
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/Red_Square_Prefix.pch
+c000000004BCBCD230000000000000097
+t1271647523
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app
+t1271648230
+s102
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Info.plist
+t1271648220
+s895
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square
+t1271648230
+s15736
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/PkgInfo
+t1271648220
+s8
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1271648221
+s92
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/MainMenu.nib
+t1271648221
+s34684
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/MyView.o
+t1271648230
+s14536
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red Square.LinkFileList
+c000000004BCBCFDC000000000000017E
+t1271648220
+s382
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red_SquareAppDelegate.o
+t1271648230
+s21200
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/main.o
+t1271648230
+s5008
+
+N/Users/uc0079/Documents/LearnCocoa/Red Square/main.m
+c000000004BCBCD2300000000000000FD
+t1271647523
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch.gch
+t1271648229
+s54212368
+
+NRed_Square-Info.plist
+c000000004BCBCD2300000000000003EA
+t1271647523
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293341020#293341020#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/MyView.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293341030.087968
+e293341030.251572
+r1
+xCompileC
+xbuild/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/MyView.o
+x/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m293341030#293341030#0(0"0(0#0#54"/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m4300885448#1613"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Red Square/MyView.m" -o "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/MyView.o"0#
+
+CCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red_SquareAppDelegate.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293341029.785949
+e293341030.096297
+r1
+xCompileC
+xbuild/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red_SquareAppDelegate.o
+x/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m293341029#293341030#0(0"0(0#0#69"/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m4300885448#1643"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Red Square/Red_SquareAppDelegate.m" -o "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red_SquareAppDelegate.o"0#
+
+CCompileC "build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/main.o" "/Users/uc0079/Documents/LearnCocoa/Red Square/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293341029.784840
+e293341030.087825
+r1
+xCompileC
+xbuild/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/main.o
+x/Users/uc0079/Documents/LearnCocoa/Red Square/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/uc0079/Documents/LearnCocoa/Red Square/main.m293341029#293341030#0(0"0(0#0#52"/Users/uc0079/Documents/LearnCocoa/Red Square/main.m4300885448#1609"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Red Square/main.m" -o "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib"
+s293341020.890623
+e293341022.016689
+r1
+xCompileXIB
+x/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib293341020#293341022#0(0"0(0#0#72"/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib4300885448#357"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s293341020.889706
+e293341021.249520
+r1
+xCopyStringsFile
+x/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings293341020#293341021#0(0"0(0#0#77"/Users/uc0079/Documents/LearnCocoa/Red Square/English.lproj/InfoPlist.strings4300885448#386"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square" normal x86_64
+s293341030.251674
+e293341030.785326
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square293341030#293341030#0(0"0(0#0#0"4300885448#602"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" "-F/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" -filelist "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Objects-normal/x86_64/Red Square.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/MacOS/Red Square"0#
+
+CProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Info.plist" Red_Square-Info.plist
+s293341020.883269
+e293341020.889607
+r1
+xProcessInfoPlistFile
+x/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Info.plist
+xRed_Square-Info.plist
+lSLF07#2@29"Process Red_Square-Info.plist293341020#293341020#0(0"0(0#0#67"/Users/uc0079/Documents/LearnCocoa/Red Square/Red_Square-Info.plist4300885448#346"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    builtin-infoPlistUtility Red_Square-Info.plist -genpkginfo "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch.gch Red_Square_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293341022.016809
+e293341029.784572
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch.gch
+xRed_Square_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Red_Square_Prefix.pch293341022#293341029#0(0"0(0#0#67"/Users/uc0079/Documents/LearnCocoa/Red Square/Red_Square_Prefix.pch4300885448#1503"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/Red Square-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Red Square/build/Red Square.build/Debug/Red Square.build/DerivedSources" -c "/Users/uc0079/Documents/LearnCocoa/Red Square/Red_Square_Prefix.pch" -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Red_Square_Prefix-cyqddqsaerzvytcjdmtbttiablzk/Red_Square_Prefix.pch.gch0#
+
+CTouch "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app"
+s293341030.785419
+e293341030.797162
+r1
+xTouch
+x/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app
+lSLF07#2@78"Touch /Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app293341030#293341030#0(0"0(0#0#0"4300885448#152"    cd "/Users/uc0079/Documents/LearnCocoa/Red Square"    /usr/bin/touch -c "/Users/uc0079/Documents/LearnCocoa/Red Square/build/Debug/Red Square.app"0#
+
