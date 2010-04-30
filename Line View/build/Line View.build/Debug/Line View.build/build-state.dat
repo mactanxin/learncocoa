@@ -1,7 +1,7 @@
 TLine View
 v7
 r0
-t294290323.473797
+t294290604.719932
 cCheck dependencies
 cProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/Info.plist" Line_View-Info.plist
 cCopyStringsFile "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
@@ -63,13 +63,13 @@ s197
 i<Cocoa/Cocoa.h>
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m
-c000000004BDA4BFE0000000000000367
-t1272597502
-s871
+c000000004BDA4D2C00000000000003A1
+t1272597804
+s929
 i"MyView.h"
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app
-t1272597518
+t1272597804
 s102
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/Info.plist
@@ -77,7 +77,7 @@ t1272597509
 s892
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View
-t1272597518
+t1272597804
 s15848
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/PkgInfo
@@ -102,8 +102,8 @@ t1272597518
 s21168
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/MyView.o
-t1272597518
-s17004
+t1272597804
+s17280
 
 N/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/main.o
 t1272597518
@@ -126,7 +126,7 @@ s1002
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies294290323#294290323#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies294290604#294290604#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC "build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/Line_ViewAppDelegate.o" "/Users/uc0079/Documents/LearnCocoa/Line View/Line_ViewAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s294290318.155418
@@ -142,8 +142,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@75"Compile /Users/uc0079/Documents/LearnCocoa/Line View/Line_ViewAppDelegate.m294290318#294290318#0(0"0(0#0#67"/Users/uc0079/Documents/LearnCocoa/Line View/Line_ViewAppDelegate.m4300885448#1610"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Line_View_Prefix-ahmnfvifcflklqakwnbsgpqfbgmf/Line_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Line View/Line_ViewAppDelegate.m" -o "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/Line_ViewAppDelegate.o"0#
 
 CCompileC "build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/MyView.o" "/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s294290318.511573
-e294290318.668477
+s294290604.270315
+e294290604.679752
 r1
 xCompileC
 xbuild/Line View.build/Debug/Line View.build/Objects-normal/x86_64/MyView.o
@@ -152,7 +152,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@61"Compile /Users/uc0079/Documents/LearnCocoa/Line View/MyView.m294290318#294290318#0(0"0(0#0#53"/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m4300885448#1582"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Line_View_Prefix-ahmnfvifcflklqakwnbsgpqfbgmf/Line_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m" -o "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/MyView.o"0#
+lSLF07#2@61"Compile /Users/uc0079/Documents/LearnCocoa/Line View/MyView.m294290604#294290604#0(0"0(0#0#53"/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m4300885448#1582"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Line_View_Prefix-ahmnfvifcflklqakwnbsgpqfbgmf/Line_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/Line View/MyView.m" -o "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/MyView.o"0#
 
 CCompileC "build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/main.o" "/Users/uc0079/Documents/LearnCocoa/Line View/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s294290318.154171
@@ -185,14 +185,14 @@ xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings294290309#294290310#0(0"0(0#0#76"/Users/uc0079/Documents/LearnCocoa/Line View/English.lproj/InfoPlist.strings4300885448#383"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/Resources/English.lproj"0#
 
 CLd "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View" normal x86_64
-s294290318.668577
-e294290318.945538
+s294290604.679850
+e294290604.717138
 r1
 xLd
 x/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View
 xnormal
 xx86_64
-lSLF07#2@100"Link /Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View294290318#294290318#0(0"0(0#0#0"4300885448#592"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" -filelist "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/Line View.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View"0#
+lSLF07#2@100"Link /Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View294290604#294290604#0(0"0(0#0#0"4300885448#592"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" -filelist "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Objects-normal/x86_64/Line View.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/MacOS/Line View"0#
 
 CProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app/Contents/Info.plist" Line_View-Info.plist
 s294290309.580503
@@ -217,10 +217,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile Line_View_Prefix.pch294290310#294290318#0(0"0(0#0#65"/Users/uc0079/Documents/LearnCocoa/Line View/Line_View_Prefix.pch4300885448#1474"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/Line View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/Line View/build/Line View.build/Debug/Line View.build/DerivedSources" -c "/Users/uc0079/Documents/LearnCocoa/Line View/Line_View_Prefix.pch" -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Line_View_Prefix-ahmnfvifcflklqakwnbsgpqfbgmf/Line_View_Prefix.pch.gch0#
 
 CTouch "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app"
-s294290318.945639
-e294290318.948505
+s294290604.717239
+e294290604.719890
 r1
 xTouch
 x/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app
-lSLF07#2@76"Touch /Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app294290318#294290318#0(0"0(0#0#0"4300885448#149"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    /usr/bin/touch -c "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app"0#
+lSLF07#2@76"Touch /Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app294290604#294290604#0(0"0(0#0#0"4300885448#149"    cd "/Users/uc0079/Documents/LearnCocoa/Line View"    /usr/bin/touch -c "/Users/uc0079/Documents/LearnCocoa/Line View/build/Debug/Line View.app"0#
 

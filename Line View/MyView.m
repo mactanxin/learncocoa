@@ -31,6 +31,7 @@
 	[NSBezierPath strokeRect:bounds];
 	[NSBezierPath strokeLineFromPoint:top toPoint:bottom];
 	[NSBezierPath strokeLineFromPoint:left toPoint:right];
+	[[NSBezierPath bezierPathWithOvalInRect:bounds] stroke]; //生成椭圆
 }
 
 @end
