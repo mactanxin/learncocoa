@@ -1,0 +1,226 @@
+TString View
+v7
+r0
+t294287396.740088
+cCheck dependencies
+cProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Info.plist" String_View-Info.plist
+cCopyStringsFile "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch.gch String_View_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/main.o" "/Users/uc0079/Documents/LearnCocoa/String View/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/String_ViewAppDelegate.o" "/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/MyView.o" "/Users/uc0079/Documents/LearnCocoa/String View/MyView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View" normal x86_64
+cTouch "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/InfoPlist.strings
+c000000004BDA3E99000000000000002D
+t1272594073
+s45
+
+N/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib
+c000000004BDA3F4000000000000266FD
+t1272594240
+s157437
+
+N/Users/uc0079/Documents/LearnCocoa/String View/MyView.h
+c000000004BDA3EBB00000000000000C7
+t1272594107
+s199
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/String View/MyView.m
+c000000004BDA407D0000000000000299
+t1272594557
+s665
+i"MyView.h"
+
+N/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.h
+c000000004BDA3E990000000000000144
+t1272594073
+s324
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m
+c000000004BDA3E99000000000000017D
+t1272594073
+s381
+i"String_ViewAppDelegate.h"
+
+N/Users/uc0079/Documents/LearnCocoa/String View/String_View_Prefix.pch
+c000000004BDA3E990000000000000099
+t1272594073
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app
+t1272594596
+s102
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Info.plist
+t1272594571
+s898
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View
+t1272594596
+s16064
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/PkgInfo
+t1272594571
+s8
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272594572
+s92
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272594573
+s34698
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/MyView.o
+t1272594595
+s15836
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/String View.LinkFileList
+c000000004BDA408B0000000000000188
+t1272594571
+s392
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/String_ViewAppDelegate.o
+t1272594595
+s21224
+
+N/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/main.o
+t1272594595
+s5016
+
+N/Users/uc0079/Documents/LearnCocoa/String View/main.m
+c000000004BDA3E9900000000000000FE
+t1272594073
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch.gch
+t1272594594
+s54212368
+
+NString_View-Info.plist
+c000000004BDA3E9900000000000003EA
+t1272594073
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294287371#294287371#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/MyView.o" "/Users/uc0079/Documents/LearnCocoa/String View/MyView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294287395.476068
+e294287395.648881
+r1
+xCompileC
+xbuild/String View.build/Debug/String View.build/Objects-normal/x86_64/MyView.o
+x/Users/uc0079/Documents/LearnCocoa/String View/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/uc0079/Documents/LearnCocoa/String View/MyView.m294287395#294287395#0(0"0(0#0#55"/Users/uc0079/Documents/LearnCocoa/String View/MyView.m4300885448#1644"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/String View/MyView.m" -o "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/MyView.o"0#
+
+CCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/String_ViewAppDelegate.o" "/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294287395.109353
+e294287395.475958
+r1
+xCompileC
+xbuild/String View.build/Debug/String View.build/Objects-normal/x86_64/String_ViewAppDelegate.o
+x/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m294287395#294287395#0(0"0(0#0#71"/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m4300885448#1676"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/String View/String_ViewAppDelegate.m" -o "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/String_ViewAppDelegate.o"0#
+
+CCompileC "build/String View.build/Debug/String View.build/Objects-normal/x86_64/main.o" "/Users/uc0079/Documents/LearnCocoa/String View/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294287395.093635
+e294287395.499823
+r1
+xCompileC
+xbuild/String View.build/Debug/String View.build/Objects-normal/x86_64/main.o
+x/Users/uc0079/Documents/LearnCocoa/String View/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/uc0079/Documents/LearnCocoa/String View/main.m294287395#294287395#0(0"0(0#0#53"/Users/uc0079/Documents/LearnCocoa/String View/main.m4300885448#1640"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources" -include /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch -c "/Users/uc0079/Documents/LearnCocoa/String View/main.m" -o "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib"
+s294287371.677909
+e294287373.922984
+r1
+xCompileXIB
+x/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib294287371#294287373#0(0"0(0#0#73"/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib4300885448#361"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s294287371.647278
+e294287372.963879
+r1
+xCopyStringsFile
+x/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings294287371#294287372#0(0"0(0#0#78"/Users/uc0079/Documents/LearnCocoa/String View/English.lproj/InfoPlist.strings4300885448#389"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View" normal x86_64
+s294287395.648981
+e294287396.697375
+r1
+xLd
+x/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View
+xnormal
+xx86_64
+lSLF07#2@106"Link /Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View294287395#294287396#0(0"0(0#0#0"4300885448#612"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" "-F/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" -filelist "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/Objects-normal/x86_64/String View.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/MacOS/String View"0#
+
+CProcessInfoPlistFile "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Info.plist" String_View-Info.plist
+s294287371.591405
+e294287371.647158
+r1
+xProcessInfoPlistFile
+x/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Info.plist
+xString_View-Info.plist
+lSLF07#2@30"Process String_View-Info.plist294287371#294287371#0(0"0(0#0#69"/Users/uc0079/Documents/LearnCocoa/String View/String_View-Info.plist7453010373643546624#352"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    builtin-infoPlistUtility String_View-Info.plist -genpkginfo "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch.gch String_View_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294287373.923262
+e294287395.093407
+r1
+xProcessPCH
+x/var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch.gch
+xString_View_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile String_View_Prefix.pch294287373#294287395#0(0"0(0#0#69"/Users/uc0079/Documents/LearnCocoa/String View/String_View_Prefix.pch4300885448#1532"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-generated-files.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-own-target-headers.hmap" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-all-target-headers.hmap" -iquote "/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/String View-project-headers.hmap" "-F/Users/uc0079/Documents/LearnCocoa/String View/build/Debug" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/include" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources/x86_64" "-I/Users/uc0079/Documents/LearnCocoa/String View/build/String View.build/Debug/String View.build/DerivedSources" -c "/Users/uc0079/Documents/LearnCocoa/String View/String_View_Prefix.pch" -o /var/folders/M9/M9NXXmSRGOeP762v30qT7++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/String_View_Prefix-aymuawiqosvlxyfdgcrgitspikrw/String_View_Prefix.pch.gch0#
+
+CTouch "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app"
+s294287396.697588
+e294287396.739997
+r1
+xTouch
+x/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app
+lSLF07#2@80"Touch /Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app294287396#294287396#0(0"0(0#0#0"4300885448#155"    cd "/Users/uc0079/Documents/LearnCocoa/String View"    /usr/bin/touch -c "/Users/uc0079/Documents/LearnCocoa/String View/build/Debug/String View.app"0#
+
